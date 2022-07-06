@@ -60145,12 +60145,13 @@ A.Ww.prototype={}
 A.lI.prototype={
 al(){return new A.IQ(B.m)}}
 A.IQ.prototype={
-P(a,b){var s,r=null,q=t.w,p=b.X(q).f,o=b.X(q).f,n=t.G
-p=A.hy(r,A.Pp(A.b([A.jg("SPEAKHO",r,r,r,A.e0(r,r,B.l,r,r,r,r,r,r,r,r,30,r,B.bT,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.kx(r,5,r),A.jg("Pronunciation on the go",r,r,r,A.e0(r,r,B.l,r,r,r,r,r,r,r,r,15,r,r,r,r,!0,r,1.5,r,r,r,r,r,1),r,r)],n),B.qZ,B.cH),r,new A.eX(B.aW,new A.BU(new A.nw("assets/images/wp9305668.jpg"),new A.rY(B.Dr,B.kG),B.uV),r,new A.cl(B.F,B.F,new A.bk(20,20),new A.bk(20,20)),r,r,B.b3),o.a.b*0.17,r,r,p.a.a)
-o=A.Pp(A.b([A.jg("Welcome User!",r,r,r,A.e0(r,r,B.r4,r,r,r,r,r,r,r,r,25,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.kx(r,5,r),A.jg("more content coming soon..",r,r,r,A.e0(r,r,B.r4,r,r,r,r,r,r,r,r,15,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],n),B.qY,B.cH)
-q=b.X(q).f
-s=A.a8N(new A.bk(15,15))
-return A.aev(new A.fU(B.yB,A.Pp(A.b([p,o,A.hy(r,A.AX(A.aeO(A.jg("Logout",r,r,r,A.e0(r,r,B.l,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.a3o(b),r),r,r),r,new A.eX(B.aW,r,r,s,r,r,B.b3),40,r,r,q.a.a*0.4)],n),B.CZ,B.cH),r))}}
+P(a,b){var s,r,q=null,p=t.w,o=b.X(p).f
+p=b.X(p).f
+s=t.G
+o=A.hy(q,A.Pp(A.b([A.jg("SPEAKHO",q,q,q,A.e0(q,q,B.l,q,q,q,q,q,q,q,q,30,q,B.bT,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.kx(q,5,q),A.jg("Pronunciation on the go",q,q,q,A.e0(q,q,B.l,q,q,q,q,q,q,q,q,15,q,q,q,q,!0,q,1.5,q,q,q,q,q,1),q,q)],s),B.qZ,B.cH),q,new A.eX(B.aW,new A.BU(new A.nw("assets/images/wp9305668.jpg"),new A.rY(B.Dr,B.kG),B.uV),q,new A.cl(B.F,B.F,new A.bk(20,20),new A.bk(20,20)),q,q,B.b3),p.a.b*0.17,q,q,o.a.a)
+p=A.Pp(A.b([A.jg("Welcome User!",q,q,q,A.e0(q,q,B.r4,q,q,q,q,q,q,q,q,25,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.kx(q,5,q),A.jg("more content coming soon..",q,q,q,A.e0(q,q,B.r4,q,q,q,q,q,q,q,q,15,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q)],s),B.qY,B.cH)
+r=A.a8N(new A.bk(15,15))
+return A.aev(new A.fU(B.yB,A.Pp(A.b([o,p,A.hy(q,A.AX(A.aeO(A.jg("Logout",q,q,q,A.e0(q,q,B.l,q,q,q,q,q,q,q,q,20,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),new A.a3o(b),q),q,q),q,new A.eX(B.aW,q,q,r,q,q,B.b3),40,q,q,150)],s),B.CZ,B.cH),q))}}
 A.a3o.prototype={
 $0(){var s=0,r=A.Y(t.H),q=this
 var $async$$0=A.Z(function(a,b){if(a===1)return A.V(b,r)
